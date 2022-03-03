@@ -12,7 +12,7 @@ createServer({
       transactions:[
         { 
           id:1,
-          title:'Freelanse Website',
+          title:'Freelance Website',
           type:'deposit',
           amounth:3000,
           category:'Desenvolvimento',

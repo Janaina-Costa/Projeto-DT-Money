@@ -10,7 +10,7 @@ export const Container = styled.footer`
     img {
         z-index:1000;
         width:18.75rem;
-        background-color: transparent;
+        
     }
 
     div{

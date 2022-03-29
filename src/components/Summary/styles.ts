@@ -17,12 +17,12 @@ export const Container = styled.div`
         padding: 1.5rem 2rem;
         color: var(--text-title);
        
-
+        
         header{
+            
             display: flex;
             align-items: center;
             justify-content: space-between;
-
         }
         strong{
             display: block;
